@@ -1,0 +1,14 @@
+series: Matrix Mathematics
+title: Matrices and Vectors
+author:
+  name: Andrew Litfin
+  email:
+  github: astrodude80
+description: This tutorial explains how matrices and vectors interact, and why we care about matrices at all.
+language: C++
+tags:
+  - Math
+extra_resources:
+connections:
+  - series: Matrix Mathematics
+    title: Introduction to matrices
